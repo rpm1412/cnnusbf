@@ -2,6 +2,7 @@
 An implementation of the network in the paper **"Towards Fast Region Adaptive Ultrasound Beamformer For Plane Wave Imaging Using Convolutional Neural Networks"**
 
 The implementation can be found in the code snippet titled *cnnusbf.py*
+
 Standard tensorflow backend with Keras API is used to train the network. Hence it is essential to have tensorflow and Keras installed. The code can be easily implemented and hosted on Google Colab that provides hardware support for training the network. With a hardware accelerator (GPU) the speed of execution is manifold greater.
 
 The complete implementation and details of the study will be available after the review by the IEEE committee. This work has been submitted to the IEEE for possible publication. The links will be provided as and when available.
