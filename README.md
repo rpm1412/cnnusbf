@@ -10,12 +10,12 @@ The complete implementation and details of the study will be available after the
 ***Pictorial representation of training method and details for implementation***
 
 Existing method from baseline study:
-![alt text](https://github.com/rpm1412/cnnusbf/tree/main/img/img1.png)
+![click to view image](https://github.com/rpm1412/cnnusbf/tree/main/img/img1.png)
 
 Proposed method:
-![alt text](https://github.com/rpm1412/cnnusbf/tree/main/img/img2.png)
+![click to view image](https://github.com/rpm1412/cnnusbf/tree/main/img/img2.png)
 
 With the proposed method, we aim to leverage on the spatial information employed in the convolution kernels in the Convolutional Architecture to provide superior results in adaptive beamforming when compared to a pixel based strategy in the baseline. The advantages seen are that of : 1) Superior metrics with a lesser requirement in angles of insonification for similar image metrics, 2) Lesser angles of insonification could mean a possibility of increased frame rates.
 
 A few plots are attached below to present the advantages in a nutshell to the readers. Both the baseline and the proposed work is trained using the same training data to maintain a pivot for comparison and standard PICMUS dataset is used for evaluation.
-![alt text](https://github.com/rpm1412/cnnusbf/tree/main/img/img3.png)
+![click to view image](https://github.com/rpm1412/cnnusbf/tree/main/img/img3.png)
