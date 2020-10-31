@@ -11,7 +11,7 @@ The complete implementation and details of the study will be available after the
 
 Existing method from baseline study:
 <p align="center">
-  <img width="460" height="300" src="https://github.com/rpm1412/cnnusbf/tree/main/img/img1.png">
+  <src="https://github.com/rpm1412/cnnusbf/tree/main/img/img1.png">
 </p>
 
 
