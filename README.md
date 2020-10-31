@@ -10,7 +10,7 @@ The complete implementation and details of the study will be available after the
 ***Pictorial representation of training method and details for implementation***
 
 Existing method from baseline study:
-![click to view image](relative/cnnusbf/img/img1.png)
+![click to view image](relative/img/img1.png)
 
 Proposed method:
 ![click to view image](https://github.com/rpm1412/cnnusbf/tree/main/img/img2.png)
